@@ -1,0 +1,25 @@
+## Build output
+bin/
+obj/
+
+## Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Rider
+.idea/
+
+## Logs
+*.log
+
+## OS
+.DS_Store
+Thumbs.db
+
+## Secrets / env
+appsettings.Production.json
+*.pfx
+*.key
